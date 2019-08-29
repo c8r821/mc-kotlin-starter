@@ -17,7 +17,6 @@ version '2.0.1'
 
 apply from: 'mcplugin.gradle'
 apply from: 'spigot.gradle'
-apply from: 'chestui.gradle'
 
 repositories {
     mavenCentral()
