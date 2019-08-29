@@ -1,0 +1,12 @@
+name: Boilerplate
+version: @version@
+main: com.c8r821.starter.Plugin
+author: c8r821
+api-version: 1.13
+
+commands:
+  hello:
+    permission: plugin.use
+permissions:
+  plugin.use:
+    default: true
